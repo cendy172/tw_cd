@@ -9,3 +9,5 @@
 1. 谁有这本书
 2. 是否被借出
 3. 被谁借出
+
+Libr API 参照: https://github.com/wahyd4/Libr
